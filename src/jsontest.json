@@ -1,0 +1,878 @@
+{
+    "businesses": [
+        {
+            "id": "eGCM9QgCBlXM81kSo-g5DQ",
+            "alias": "stone-brewing-world-bistro-and-gardens-escondido-escondido-2",
+            "name": "Stone Brewing World Bistro & Gardens Escondido",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5xweQ_wt8f23Ief1unTQog/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/stone-brewing-world-bistro-and-gardens-escondido-escondido-2?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 3914,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 33.116948079231,
+                "longitude": -117.119835988409
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1999 Citracado Pkwy",
+                "address2": "",
+                "address3": "",
+                "city": "Escondido",
+                "zip_code": "92029",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1999 Citracado Pkwy",
+                    "Escondido, CA 92029"
+                ]
+            },
+            "phone": "+17602947899",
+            "display_phone": "(760) 294-7899",
+            "distance": 6639.628217105303
+        },
+        {
+            "id": "R0Zgcp0PZfOaXh-PEa9Mng",
+            "alias": "pho-truc-xanh-escondido",
+            "name": "Pho Truc Xanh",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/s2JN_cUy3Nyz7-No1TY5Gg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pho-truc-xanh-escondido?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 819,
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.127895,
+                "longitude": -117.091797
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "503 W Mission Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Escondido",
+                "zip_code": "92025",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "503 W Mission Ave",
+                    "Escondido, CA 92025"
+                ]
+            },
+            "phone": "+17604898201",
+            "display_phone": "(760) 489-8201",
+            "distance": 5595.920510364544
+        },
+        {
+            "id": "E4odb7GTXjC8sEmFu7Jw8w",
+            "alias": "phils-bbq-san-marcos",
+            "name": "Phil's BBQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ESBy4nMIjy26LVBLVHSazQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/phils-bbq-san-marcos?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 2158,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 33.137024,
+                "longitude": -117.176707
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "579 Grand Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Marcos",
+                "zip_code": "92078",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "579 Grand Ave",
+                    "San Marcos, CA 92078"
+                ]
+            },
+            "phone": "+17607591400",
+            "display_phone": "(760) 759-1400",
+            "distance": 7616.000805917353
+        },
+        {
+            "id": "0wFdwStjx25-4fBTf95jew",
+            "alias": "blue-mug-coffee-and-tea-escondido-2",
+            "name": "Blue Mug Coffee & Tea",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uJ4DdNdCKeqqs4ZJKGwftw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/blue-mug-coffee-and-tea-escondido-2?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 229,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.1555297598977,
+                "longitude": -117.124795392764
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1882 W El Norte Pkwy",
+                "address2": "Ste E",
+                "address3": "",
+                "city": "Escondido",
+                "zip_code": "92026",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1882 W El Norte Pkwy",
+                    "Ste E",
+                    "Escondido, CA 92026"
+                ]
+            },
+            "phone": "+17607967595",
+            "display_phone": "(760) 796-7595",
+            "distance": 2689.362737106692
+        },
+        {
+            "id": "-mGfVpt9dFByfxRgMmowxw",
+            "alias": "cenote-grill-escondido",
+            "name": "Cenote Grill",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5B8hnYZXaI9vJyEFSfE0pQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cenote-grill-escondido?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 525,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 33.1551629168914,
+                "longitude": -117.125163098636
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1896 W El Norte Pkwy",
+                "address2": null,
+                "address3": "",
+                "city": "Escondido",
+                "zip_code": "92026",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1896 W El Norte Pkwy",
+                    "Escondido, CA 92026"
+                ]
+            },
+            "phone": "+17607409911",
+            "display_phone": "(760) 740-9911",
+            "distance": 2742.114018369412
+        },
+        {
+            "id": "PBFHIMAcvTg5Ynu0BujnPg",
+            "alias": "chicken-lisas-escondido-3",
+            "name": "Chicken Lisa's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aVv6QCY9hnu2PuqEeaqduA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chicken-lisas-escondido-3?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 278,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.1581317322842,
+                "longitude": -117.100027677516
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "555 W Country Club Ln",
+                "address2": "Ste E",
+                "address3": "",
+                "city": "Escondido",
+                "zip_code": "92026",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "555 W Country Club Ln",
+                    "Ste E",
+                    "Escondido, CA 92026"
+                ]
+            },
+            "phone": "+17602918319",
+            "display_phone": "(760) 291-8319",
+            "distance": 2174.233263570754
+        },
+        {
+            "id": "nds9jt8bHfeo6z5DeFxweg",
+            "alias": "escogelato-escondido",
+            "name": "EscoGelato",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YaJAIxAYX7ANFi-PCT5AwQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/escogelato-escondido?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 520,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "gelato",
+                    "title": "Gelato"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.1219291687012,
+                "longitude": -117.079544067383
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "122 S Kalmia St",
+                "address2": null,
+                "address3": "",
+                "city": "Escondido",
+                "zip_code": "92025",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "122 S Kalmia St",
+                    "Escondido, CA 92025"
+                ]
+            },
+            "phone": "+17607456500",
+            "display_phone": "(760) 745-6500",
+            "distance": 6628.112394511316
+        },
+        {
+            "id": "LIklo3Px0DF8Ju4e7vKysA",
+            "alias": "mama-kats-san-marcos",
+            "name": "Mama Kat's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Q-88wvzP5N0V6nqRgCU97A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mama-kats-san-marcos?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 1506,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.1355590820312,
+                "longitude": -117.18660736084
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "950 W San Marcos Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "San Marcos",
+                "zip_code": "92078",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "950 W San Marcos Blvd",
+                    "San Marcos, CA 92078"
+                ]
+            },
+            "phone": "+17605914558",
+            "display_phone": "(760) 591-4558",
+            "distance": 8478.295455323527
+        },
+        {
+            "id": "1ZflRsr-3BuNgQel1GHCQQ",
+            "alias": "pho-saigon-express-escondido",
+            "name": "Pho Saigon Express",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gBLX--Q607TSLMtCef5Ong/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pho-saigon-express-escondido?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 609,
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.126807,
+                "longitude": -117.084974
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "605 N Broadway",
+                "address2": null,
+                "address3": "",
+                "city": "Escondido",
+                "zip_code": "92025",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "605 N Broadway",
+                    "Escondido, CA 92025"
+                ]
+            },
+            "phone": "+17607464669",
+            "display_phone": "(760) 746-4669",
+            "distance": 5928.062405119598
+        },
+        {
+            "id": "dYZliVGCfFDkTASYdsH4kA",
+            "alias": "pita-guys-san-marcos",
+            "name": "Pita Guys",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XkmLRrWCcS4yvoYV_cMiow/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pita-guys-san-marcos?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 527,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.1396959,
+                "longitude": -117.1635014
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "133 N Twin Oaks Valley Rd",
+                "address2": null,
+                "address3": "",
+                "city": "San Marcos",
+                "zip_code": "92069",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "133 N Twin Oaks Valley Rd",
+                    "San Marcos, CA 92069"
+                ]
+            },
+            "phone": "+17605663040",
+            "display_phone": "(760) 566-3040",
+            "distance": 6368.567152520934
+        },
+        {
+            "id": "5O1EnxCsl49U2b9Zw8gAfw",
+            "alias": "sunny-side-kitchen-escondido-3",
+            "name": "Sunny Side Kitchen",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uiSVtxBv_bmjcZCMRpDX5w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sunny-side-kitchen-escondido-3?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 424,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 33.1187820692633,
+                "longitude": -117.085142666427
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "155 S Orange St",
+                "address2": "",
+                "address3": "",
+                "city": "Escondido",
+                "zip_code": "92025",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "155 S Orange St",
+                    "Escondido, CA 92025"
+                ]
+            },
+            "phone": "+17602944450",
+            "display_phone": "(760) 294-4450",
+            "distance": 6755.29911906267
+        },
+        {
+            "id": "SMpsaBPyPUff2wdiQhYXSA",
+            "alias": "burger-bench-escondido",
+            "name": "Burger Bench",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/py-EvpWGj-tC3VO_tFTrSg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-bench-escondido?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 804,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.122613,
+                "longitude": -117.079242
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "237 E Grand Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Escondido",
+                "zip_code": "92025",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "237 E Grand Ave",
+                    "Escondido, CA 92025"
+                ]
+            },
+            "phone": "+17602942001",
+            "display_phone": "(760) 294-2001",
+            "distance": 6571.210094950133
+        },
+        {
+            "id": "X2yrqRmVY1goTK0AYWfsGA",
+            "alias": "home-sweet-home-cafe-escondido",
+            "name": "Home Sweet Home Cafe",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/x1k4dIK6oobCwDEkl1gkqw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/home-sweet-home-cafe-escondido?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 610,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.125033,
+                "longitude": -117.112933
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "662 Enterprise St",
+                "address2": "",
+                "address3": "",
+                "city": "Escondido",
+                "zip_code": "92029",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "662 Enterprise St",
+                    "Escondido, CA 92029"
+                ]
+            },
+            "phone": "+17607432233",
+            "display_phone": "(760) 743-2233",
+            "distance": 5679.11604880854
+        },
+        {
+            "id": "Yo_NLIzr15-wWrwzdZwjvA",
+            "alias": "chef-v-san-marcos",
+            "name": "Chef V",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BRbGbdfqO2HBYYLvnGuDqw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chef-v-san-marcos?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 663,
+            "categories": [
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                },
+                {
+                    "alias": "organic_stores",
+                    "title": "Organic Stores"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.1366753031463,
+                "longitude": -117.130231291826
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1300 E Mission Rd",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "San Marcos",
+                "zip_code": "92069",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1300 E Mission Rd",
+                    "Ste A",
+                    "San Marcos, CA 92069"
+                ]
+            },
+            "phone": "+18667096060",
+            "display_phone": "(866) 709-6060",
+            "distance": 4783.84405071713
+        },
+        {
+            "id": "tkQS0Ffox1NKL4p8ISVzPA",
+            "alias": "manna-korean-bbq-san-marcos",
+            "name": "Manna Korean BBQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JoMh29iB-SIZNFO5zgQjuA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/manna-korean-bbq-san-marcos?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 595,
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 33.1344023,
+                "longitude": -117.1197782
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "740 Nordahl Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Marcos",
+                "zip_code": "92069",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "740 Nordahl Rd",
+                    "San Marcos, CA 92069"
+                ]
+            },
+            "phone": "+17607433300",
+            "display_phone": "(760) 743-3300",
+            "distance": 4708.093404408154
+        },
+        {
+            "id": "fjcn18FhCIx-5_7suhZV5A",
+            "alias": "killer-pizza-from-mars-escondido",
+            "name": "Killer Pizza From Mars",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lFgDZ6z8YnGCSJ4mTFMpwA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/killer-pizza-from-mars-escondido?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 415,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 33.1479681903375,
+                "longitude": -117.107677321906
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1040 W El Norte Pkwy",
+                "address2": "",
+                "address3": "",
+                "city": "Escondido",
+                "zip_code": "92026",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1040 W El Norte Pkwy",
+                    "Escondido, CA 92026"
+                ]
+            },
+            "phone": "+17607416277",
+            "display_phone": "(760) 741-6277",
+            "distance": 3123.9519018260157
+        },
+        {
+            "id": "p-byXR_TGkZkC6gIq1EWTQ",
+            "alias": "vintana-wine-dine-escondido",
+            "name": "Vintana Wine + Dine",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QDcJnag1cR6yYt02GHz2cw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/vintana-wine-dine-escondido?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 1556,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 33.10724,
+                "longitude": -117.09688
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "1205 Auto Park Way",
+                "address2": "",
+                "address3": "",
+                "city": "Escondido",
+                "zip_code": "92029",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1205 Auto Park Way",
+                    "Escondido, CA 92029"
+                ]
+            },
+            "phone": "+17607457777",
+            "display_phone": "(760) 745-7777",
+            "distance": 7753.52912806542
+        },
+        {
+            "id": "SyjNP1nHe54o74OSTm7ang",
+            "alias": "tj-tacos-escondido-3",
+            "name": "TJ Tacos",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yRSKGsSGGXYV1FnRD6F-CQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tj-tacos-escondido-3?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 629,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.1283149714616,
+                "longitude": -117.072496153414
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "802 E Valley Pkwy",
+                "address2": "",
+                "address3": "",
+                "city": "Escondido",
+                "zip_code": "92025",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "802 E Valley Pkwy",
+                    "Escondido, CA 92025"
+                ]
+            },
+            "phone": "+17602947511",
+            "display_phone": "(760) 294-7511",
+            "distance": 6322.817250371588
+        },
+        {
+            "id": "anGZ06XpNcIgulDcjnhCKg",
+            "alias": "the-wooden-spoon-restaurant-escondido",
+            "name": "The Wooden Spoon Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zp592cXH0_1_DeIxbLeWig/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-wooden-spoon-restaurant-escondido?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 536,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.1277199,
+                "longitude": -117.07219
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "805 E Valley Pkwy",
+                "address2": null,
+                "address3": "",
+                "city": "Escondido",
+                "zip_code": "92025",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "805 E Valley Pkwy",
+                    "Escondido, CA 92025"
+                ]
+            },
+            "phone": "+17607450266",
+            "display_phone": "(760) 745-0266",
+            "distance": 6393.960434796356
+        },
+        {
+            "id": "VD7ZKC9x5fFfDnDbTqYHWQ",
+            "alias": "ali-baba-mediterranean-cuisine-escondido-escondido",
+            "name": "Ali Baba Mediterranean Cuisine-Escondido",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PMnPgoPl9dAYhTPcMMUBLQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ali-baba-mediterranean-cuisine-escondido-escondido?adjust_creative=EIixYIqPYfGnVEImFXZM-g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=EIixYIqPYfGnVEImFXZM-g",
+            "review_count": 448,
+            "categories": [
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.1296770051435,
+                "longitude": -117.087354908569
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "201 W Mission Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Escondido",
+                "zip_code": "92025",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "201 W Mission Ave",
+                    "Escondido, CA 92025"
+                ]
+            },
+            "phone": "+17602338717",
+            "display_phone": "(760) 233-8717",
+            "distance": 5571.899722165058
+        }
+    ],
+    "total": 1700,
+    "region": {
+        "center": {
+            "longitude": -117.1094512939,
+            "latitude": 33.1760233196
+        }
+    }
+}
